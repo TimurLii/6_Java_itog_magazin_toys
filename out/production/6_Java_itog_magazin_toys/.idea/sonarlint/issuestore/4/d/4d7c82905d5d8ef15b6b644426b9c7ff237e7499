@@ -1,0 +1,9 @@
+
+c
+java:S2259*"GA "NullPointerException" could be thrown; "randomToy" is nullable here.(€¶Œ%8¤ÖêâÜ1
+H
+java:S2440"&Remove this instantiation of "Writer".( ÆŒšúÿÿÿÿ8±èâÜ1
+@
+java:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8ó£¥âÜ1
+Q
+java:S2209*"5Change this instance-reference to a static reference.(€¶Œ%8ôÎèâÜ1
